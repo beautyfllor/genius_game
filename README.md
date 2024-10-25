@@ -1,5 +1,6 @@
 # Genius Game
 
-Caio Rocha
-Florbela Freitas
-Jaquelline Barbosa
+### Integrantes
+* Caio Rocha
+* Florbela Freitas
+* Jaquelline Barbosa
